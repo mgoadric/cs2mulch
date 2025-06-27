@@ -4,6 +4,8 @@ main:
     url: /tree/
   - title: "Menagerie"
     url: /hash/
+  - title: "Resources"
+    url: /resources/
   - title: "About Us"
     url: /about/
   - title: "Github"
@@ -21,17 +23,6 @@ main:
 
 
 hash:
-  - title: "Menagerie Resources"
-    children:
-      - title: "The Game Crafter"
-        url: "https://www.thegamecrafter.com/games/cs2mulch"
-      - title: "Tabletopia"
-        url: "https://tabletopia.com/playground/cs2-mulch-fq1guf/play-now"
-      - title: "Print-N-Play"
-        url: /assets/pnp/pnp_Menagerie.pdf
-      - title: "Image Zip"
-        url: /assets/pnp/MenagerieDeck.zip
-
   - title: "Separate Chaining"
     children:
       - title: "Insertion"
@@ -70,16 +61,8 @@ hash:
         url: /hash/menagerie/
 
 tree:
-  - title: Acorn Resources
+  - title: Resources
     children:
-      - title: "The Game Crafter"
-        url: "https://www.thegamecrafter.com/games/cs2mulch"
-      - title: "Tabletopia"
-        url: "https://tabletopia.com/playground/cs2-mulch-fq1guf/play-now"
-      - title: "Print-N-Play"
-        url: /assets/pnp/pnp_Acorn.pdf
-      - title: "Image Zip"
-        url: /assets/pnp/Acorns_Chits.zip
       - title: "Tree Lexicon"
         url: /tree/lexicon/
 

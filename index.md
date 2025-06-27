@@ -29,7 +29,7 @@ and [cuckoo hashing]({{site.baseurl}}/hash/cuckoo).
 CS2Mulch is available for purchase from [The Game Crafter](https://www.thegamecrafter.com/games/cs2mulch). These resources, along with lesson plans and supporting materials,
 also freely available, either for PDF download and modification
 through a Creative Commons license, or virtually through
-the online board game sandbox software [Tabletopia](https://tabletopia.com/).
+the online board game sandbox websites [Screentop](https://screentop.gg/@goadrich/cs2mulch) or [Tabletopia](https://tabletopia.com/playground/cs2-mulch-fq1guf/play-now).
 
 # Binary Search Tree Example
 
@@ -38,7 +38,3 @@ the online board game sandbox software [Tabletopia](https://tabletopia.com/).
 # Hash Table Example
 
 {% include figure image_path="/assets/images/hash-separate-del2.png" alt="this is a placeholder image" caption="Sample Hash Table." %}
-
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
-<iframe frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://tabletopia.com/workshop/widget/cs2-mulch-fq1guf/680x340"></iframe></div>
