@@ -7,17 +7,11 @@ toc_sticky: true
 
 ---
 
-The CS2Mulch resources are available to use through multiple mediums, either printed and boxed, online, or print-and-play PDFs.
+# Resources
 
-# Printed Boxed Version
+The CS2Mulch resources are available to use through multiple mediums, either online, printed and boxed, print-and-play PDFs, or homecrafted.
 
-{% include figure image_path="/assets/images/boximage.png" alt="The Game Crafter Box" caption="The Game Crafter Boxed Edition, includes both decks and lettered chits" %}
-
-Both decks and the lettered chits are available for purchase from [The Game Crafter](https://www.thegamecrafter.com/), a print-on-demand company. Copies are priced at the cost of materials, no profit is earned from these copies. 
-
-* [Purchase at The Game Crafter](https://www.thegamecrafter.com/games/cs2mulch)
-
-# Online Version
+## Online Version
 
 Two versions of CS2Mulch are available for online interaction.
 
@@ -33,7 +27,15 @@ Two versions of CS2Mulch are available for online interaction.
 
 * [Play at Tabletopia](https://tabletopia.com/playground/cs2-mulch-fq1guf/play-now)
 
-# Print and Play
+## Printed Boxed Version
+
+{% include figure image_path="/assets/images/boximage.png" alt="The Game Crafter Box" caption="The Game Crafter Boxed Edition, includes both decks and lettered chits" %}
+
+Both decks and the lettered chits are available for purchase from [The Game Crafter](https://www.thegamecrafter.com/), a print-on-demand company. Copies are priced at the cost of materials, no profit is earned from these copies. 
+
+* [Purchase at The Game Crafter](https://www.thegamecrafter.com/games/cs2mulch)
+
+## Print and Play
 
 Each deck is available as a PDF, which include 9 cards per page and cutting marks. 
 Images for the cards are also available as a zip file, with an additional zip file 
@@ -50,3 +52,7 @@ for the lettered chits.
 * [Print-N-Play PDF](/assets/pnp/pnp_Menagerie.pdf)
 * [Numbers PDF](/assets/pnp/pnp_Menagerie_Numbers.pdf)
 * [Letter Chit Images](/assets/pnp/MenagerieDeck.zip)
+
+## Homecrafted
+
+For the Acorns deck, a homecrafted option is to use a standard 52-card deck, divided by suit for each student for 13 cards each. For the chits, pennies can be colored with sharpies to denote the red and black sides. 
