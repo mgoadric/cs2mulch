@@ -55,17 +55,20 @@ hash:
       - title: "<s>Kruskal's Algorithm</s>"
         url: /hash/disjointkruskal/
 
+
+  - title: "Spatial Data"
+    children:
+      - title: "<s>kd-tree</s>"
+        url: /hash/disjointcreate/
+      - title: "<s>PR-quadtree</s>"
+        url: /hash/disjointmerge/
+
   - title: "Games"
     children:
       - title: "<s>Menagerie</s>"
         url: /hash/menagerie/
 
 tree:
-  - title: Resources
-    children:
-      - title: "Tree Lexicon"
-        url: /tree/lexicon/
-
   - title: Sorting
     children:
       - title: "Gnome Sort"
@@ -116,6 +119,11 @@ tree:
         url: /tree/slinsertion/
       - title: "Remove"
         url: /tree/slremove/
+        
+  - title: Resources
+    children:
+      - title: "Tree Lexicon"
+        url: /tree/lexicon/
 
   - title: Games
     children:
