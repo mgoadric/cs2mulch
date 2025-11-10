@@ -1,9 +1,9 @@
 ---
-layout: splash
 title: Resources
 permalink: /resources/
-toc: false
-toc_sticky: true
+classes: wide
+sidebar:
+  nav: "resources"
 
 ---
 
