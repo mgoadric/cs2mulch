@@ -7,8 +7,6 @@ sidebar:
 
 ---
 
-# Resources
-
 The CS2Mulch resources are available to use through multiple mediums, either online, printed and boxed, print-and-play PDFs, or homecrafted.
 
 ## Online Version
@@ -55,4 +53,6 @@ for the lettered chits.
 
 ## Homecrafted
 
-For the Acorns deck, a homecrafted option is to use a standard 52-card deck, divided by suit for each student for 13 cards each. For the chits, pennies can be colored with sharpies to denote the red and black sides. 
+For the Acorns deck, a homecrafted option is to use a standard 52-card deck, divided by suit for each student to have 13 cards each. 
+
+For the chits, pennies can be colored with sharpies to denote the red and black sides.
