@@ -49,7 +49,7 @@ for the lettered chits.
 
 * [Print-N-Play PDF](/assets/pnp/pnp_Menagerie.pdf)
 * [Numbers PDF](/assets/pnp/pnp_Menagerie_Numbers.pdf)
-* [Letter Chit Images](/assets/pnp/MenagerieDeck.zip)
+* [Menagerie Images](/assets/pnp/MenagerieDeck.zip)
 
 ## Homecrafted
 

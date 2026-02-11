@@ -46,6 +46,8 @@ resources:
         url: https://mgoadric.github.io/assets/pnp/pnp_Menagerie.pdf
       - title: "Numbers PDF"
         url: https://mgoadric.github.io/assets/pnp/pnp_Menagerie_Numbers.pdf
+      - title: "Menagerie Card Images"
+        url: https://mgoadric.github.io/assets/pnp/MenagerieDeck.zip
 
   - title: "Homecrafted"
     url: https://mgoadric.github.io/cs2mulch/resources/#homecrafted
