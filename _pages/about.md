@@ -12,6 +12,11 @@ toc_sticky: true
 [Mark](http://mark.goadrich.com) is a Professor of
 Computer Science at [Hendrix College](http://hendrix.edu) in Conway, AR.
 
+## Dr. Gabriel Ferrer
+
+[Gabe](https://gjf2a.github.io/) is a Professor of
+Computer Science at [Hendrix College](http://hendrix.edu) in Conway, AR.
+
 ## Levi West
 
 Levi graduated with a Bachelor's degree in Computer Science from
@@ -19,7 +24,7 @@ Levi graduated with a Bachelor's degree in Computer Science from
 
 ## Thomas Sebring
 
-Thomas is an undergraduate Computer Science major at
+Thomas graduated with a Bachelor's degree in Computer Science from
 [Hendrix College](http://hendrix.edu) in Conway, AR.
 
 
