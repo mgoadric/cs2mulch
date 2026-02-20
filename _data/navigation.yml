@@ -37,17 +37,17 @@ resources:
   - title: "Print and Play"
     children:
       - title: "Acorns Print-N-Play PDF"
-        url: https://mgoadric.github.io/assets/pnp/pnp_Acorn.pdf
+        url: https://mgoadric.github.io/cs2mulch/assets/pnp/pnp_Acorn.pdf
       - title: "Acorn Card Images"
-        url: https://mgoadric.github.io/assets/pnp/AcordDeck.zip
+        url: https://mgoadric.github.io/cs2mulch/assets/pnp/AcordDeck.zip
       - title: "Letter Chit Images"
-        url: https://mgoadric.github.io/assets/pnp/Acorns_Chits.zip
+        url: https://mgoadric.github.io/cs2mulch/assets/pnp/Acorns_Chits.zip
       - title: "Menagerie Print-N-Play PDF"
-        url: https://mgoadric.github.io/assets/pnp/pnp_Menagerie.pdf
+        url: https://mgoadric.github.io/cs2mulch/assets/pnp/pnp_Menagerie.pdf
       - title: "Numbers PDF"
-        url: https://mgoadric.github.io/assets/pnp/pnp_Menagerie_Numbers.pdf
+        url: https://mgoadric.github.io/cs2mulch/assets/pnp/pnp_Menagerie_Numbers.pdf
       - title: "Menagerie Card Images"
-        url: https://mgoadric.github.io/assets/pnp/MenagerieDeck.zip
+        url: https://mgoadric.github.io/cs2mulch/assets/pnp/MenagerieDeck.zip
 
   - title: "Homecrafted"
     url: https://mgoadric.github.io/cs2mulch/resources/#homecrafted
