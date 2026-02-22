@@ -30,7 +30,7 @@ and [bubble sort]({{site.baseurl}}/tree/bubblesort), and compare hash table
 collision resolution algorithms like [linear probing]({{site.baseurl}}/hash/linear), 
 and [cuckoo hashing]({{site.baseurl}}/hash/cuckoo).
 
-CS2Mulch is available for purchase from [The Game Crafter](https://www.thegamecrafter.com/games/cs2mulch). These [resources](/resources), along with lesson plans and supporting materials,
+CS2Mulch is available for purchase from [The Game Crafter](https://www.thegamecrafter.com/games/cs2mulch). These [resources]({{site.baseurl}}/resources), along with lesson plans and supporting materials,
 also freely available, either for PDF download and modification
 through a Creative Commons license, or virtually through
 the online board game sandbox websites [Screentop](https://screentop.gg/@goadrich/cs2mulch) or [Tabletopia](https://tabletopia.com/playground/cs2-mulch-fq1guf/play-now).
