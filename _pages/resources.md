@@ -41,15 +41,15 @@ for the lettered chits.
 
 ### Acorns
 
-* [Print-N-Play PDF](/assets/pnp/pnp_Acorn.pdf)
-* [Acorn Card Images](/assets/pnp/AcordDeck.zip)
-* [Letter Chit Images](/assets/pnp/Acorns_Chits.zip)
+* [Print-N-Play PDF]({{site.baseurl}}/assets/pnp/pnp_Acorn.pdf)
+* [Acorn Card Images]({{site.baseurl}}/assets/pnp/AcordDeck.zip)
+* [Letter Chit Images]({{site.baseurl}}/assets/pnp/Acorns_Chits.zip)
 
 ### Menagerie
 
-* [Print-N-Play PDF](/assets/pnp/pnp_Menagerie.pdf)
-* [Numbers PDF](/assets/pnp/pnp_Menagerie_Numbers.pdf)
-* [Menagerie Images](/assets/pnp/MenagerieDeck.zip)
+* [Print-N-Play PDF]({{site.baseurl}}/assets/pnp/pnp_Menagerie.pdf)
+* [Numbers PDF]({{site.baseurl}}/assets/pnp/pnp_Menagerie_Numbers.pdf)
+* [Menagerie Images]({{site.baseurl}}/assets/pnp/MenagerieDeck.zip)
 
 ## Homecrafted
 
