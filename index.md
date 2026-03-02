@@ -7,10 +7,6 @@ header:
 excerpt: "A collection of physical manipulatives to support teaching advanced data structure concepts in computer science."
 ---
 
-# CROWD SALE
-
-From now until February 28th, 2026, the boxed version of CS2 Mulch materials is discounted on [The Game Crafter Website](https://www.thegamecrafter.com/crowdsale/cs2mulch).
-
 # Manipulatives for Computer Science
 
 **CS2Mulch** is a collection of physical manipulatives specifically
